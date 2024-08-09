@@ -3,4 +3,4 @@ Developed an advanced system for detecting malignant pulmonary nodules from CT s
 
 ## Resources
 
-[Malignant Lung Nodule Detection using Deep Learning] (https://ieeexplore.ieee.org/document/9182258)
+Research Paper [Malignant Lung Nodule Detection using Deep Learning](https://ieeexplore.ieee.org/document/9182258).
